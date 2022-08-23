@@ -1,0 +1,2 @@
+console.log("WHY??? kunaon???")
+console.log("alert")
